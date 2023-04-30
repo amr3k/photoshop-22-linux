@@ -1,4 +1,4 @@
-# Adobe Photoshop CC 2021 installer for Linux!
+# Adobe Photoshop CC 2021 installer for Linux! (Fork)
 
 ![image](https://github.com/YoungFellow-le/photoshop-22-linux/blob/main/images/screenshot.png)
 
@@ -112,7 +112,7 @@ You may still be able to access the file from the browser:
 
 * **Uninstalling `gdown` by `pip uninstall gdown`, and then reinstalling with `pip install gdown` fixes this issue.**
 * If that doesn't fix the problem, there are some other potential ways to fix the issue: [[1]](https://github.com/wkentaro/gdown/issues/43#issuecomment-638232081) [[2]](https://github.com/wkentaro/gdown/issues/43#issuecomment-1278345755) [[3]](https://github.com/wkentaro/gdown/issues/43#issuecomment-1328098120)
-* Opening this link in the browser and downloading the file manually `.../photoshop-22-linux/installation_files` is also viable as a workaround. 
+* Opening this link in the browser and downloading the file manually `.../photoshop-22-linux/installation_files` is also viable as a workaround.
 </details>
 
 ## Configure Photoshop:
@@ -129,16 +129,16 @@ You may still be able to access the file from the browser:
 ## To change the wine theme to light Windows 10:
   ```bash
   # Navigate to the Photoshop clone folder and start the main menu e.g.
-  
+
   cd ~/Documents/photoshop-22-linux
   ./main-menu.sh
-  
+
   # And select option 5
-  
+
   "[Choose options 1-6 or 7 to exit]: 5"
-  
+
   # Now navigate to the "Desktop integration" tab and change the theme to "Light"
-  
+
   ```
 ## How to run Photoshop:
 
